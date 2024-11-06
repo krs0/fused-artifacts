@@ -1,0 +1,32 @@
+{
+	"core:bowOfTheSharpshooter" : {
+		"fusedComponents" : true
+	},
+	"core:cornucopia" : {
+		"fusedComponents" : true
+	},
+	"core:elixiroflife" : {
+		"fusedComponents" : true
+	},
+	"core:ringofthemagi" : {
+		"fusedComponents" : true
+	},
+	"core:statueoflegion" : {
+		"fusedComponents" : true
+	},
+	"core:wizardswell" : {
+		"fusedComponents" : true
+	},
+	"core:diplomatscloack" : {
+		"fusedComponents" : true
+	},
+	"core:goldengoose" : {
+		"fusedComponents" : true
+	},
+	"core:ironfistoftheogre" : {
+		"fusedComponents" : true
+	},
+	"core:pendantofreflection" : {
+		"fusedComponents" : true
+	}
+}

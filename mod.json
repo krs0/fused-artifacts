@@ -1,0 +1,21 @@
+{
+	"name" : "Fused Artifacts",
+	"description" : "Fused artifacts for Heroes 3", 
+	"modType" : "Objects",
+	"author" : "Krs",
+	"contact" : "",
+	"licenseName" : "Creative Commons Attribution-ShareAlike",
+	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+	"version" : "0.0.1",
+	"downloadSize" : 0.01,
+	"compatibility" :
+	{
+		"min" : "1.5.5"
+	},
+	//"depends" : ["hota.artifacts"],
+	"artifacts" :
+	[
+		"config/fusedArtifacts"
+	]
+}
+
